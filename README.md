@@ -41,4 +41,4 @@ Pretendo estudar
 
 
 ## Informações para contato
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/carlos-daniel-lopes-rodrigues](https://www.linkedin.com/in/kaio-felix-oliveira/)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)[https://www.linkedin.com/in/kaio-felix-oliveira](https://www.linkedin.com/in/kaio-felix-oliveira/)
