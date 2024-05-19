@@ -3,7 +3,9 @@
 - 🌱 Jovem aficionado por tecnologia!
 - 👨‍💻 Desenvolvedor Full Stack
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosdanielroiz&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdanielroiz&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiofelixdeoliveira&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiofelixdeoliveira&layout=compact&theme=radical)
 
 ## Stacks 
 
